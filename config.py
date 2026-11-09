@@ -6,18 +6,18 @@ import json
 # ══════════════════════════════════════════════════════════════════════════════
 API_ID    = int(os.environ.get('API_ID',    '23932993'))
 API_HASH  =     os.environ.get('API_HASH',  '4337dc3f13c43f109509b4fae6dfdbaf')
-BOT_TOKEN =     os.environ.get('BOT_TOKEN', '8447205866:AAFLtyMlfCl9j_mLkdoUFo2D8zApHsSH_BY')
+BOT_TOKEN =     os.environ.get('BOT_TOKEN', '9277555121:AAFckbBXtdpBZWMHoH7KcTCgESxz61dyns0')
 TG_API    = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 # ══════════════════════════════════════════════════════════════════════════════
 #  ▸ BOT BRANDING
 # ══════════════════════════════════════════════════════════════════════════════
-BOT_BRAND      = '𝑹𝑿𝑷 𝑪𝑯𝑬𝑪𝑲'
-BOT_NAME       = '𝑹𝑿𝑷 𝑪𝑯𝑬𝑪𝑲'
-OWNER_NAME     = '𝑼𝑵𝑴𝑶𝑵𝑬𝒀'
-OWNER_USERNAME = 'realearning077'
-OWNER_ID       = 8524509023
-DEV_LINE       = f'🤖 𝐁𝐨𝐭 𝐃𝐞𝐯 ➜ 🥶⃤𝑹𝑿𝑷 𝑪𝑯𝑬𝑪𝑲 💀⃤'
+BOT_BRAND      = '𝚉𝙴𝙽𝙸𝚃𝙷 𝚇 𝙲𝙷𝙺'
+BOT_NAME       = '𝚉𝙴𝙽𝙸𝚃𝙷 𝚇 𝙲𝙷𝙺'
+OWNER_NAME     = '𝚉𝙴𝙽𝙸𝚃𝙷'
+OWNER_USERNAME = 'CVVXCARELESS'
+OWNER_ID       = 8794716905
+DEV_LINE       = f'🤖 𝐁𝐨𝐭 𝐃𝐞𝐯 ➜ 🥶⃤𝚉𝙴𝙽𝙸𝚃𝙷 𝚇 𝙲𝙷𝙺 💀⃤'
 
 # ══════════════════════════════════════════════════════════════════════════════
 #  ▸ MASS CHECK — STABLE TUNING
